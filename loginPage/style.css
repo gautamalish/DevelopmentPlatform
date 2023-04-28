@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    margin: 2% auto;
+    width: 30%;
+    background-color: white;
+    height: 50vh;
+}
+body{
+    background-color: black;
+}
+.input{
+    margin: auto;
+
+}
+#email{
+    margin-top: 5%;
+    position: relative;
+    left: 22.3%;
+    outline: none;
+    padding: 2%;
+    /* border: 2px solid black; */
+}
+#label{
+    margin-top: 5%;
+    position: relative;
+    left: 17%;
+}
+.pw{
+    margin-top: 5%;
+    position: relative;
+    left: 14%;
+    padding: 2%;
+    outline: none;
+}
+.log {
+padding: 10px;
+position: relative;
+top: 10%;
+left: 25%;
+width: 30vh;
+background-color: blue;
+color: white;
+border: blue;
+transition: all 0.3s;
+margin-top: 2%;
+}
+.log:hover{
+    background-color: brown;
+}
+h5{
+    width: 30%;
+    /* border: 2px solid black;  */
+    position: relative;
+    top: 12%;
+    left: 38%;
+}
+#sign{
+    width: 30%;
+    border: 2px solid black;
+     position: relative;
+    left: 33%;
+    margin-top: 1%;
+    background-color:blue;
+    color: white;
+    padding: 2%;
+    transition: all 0.5s;
+    outline: none;
+    border: none;
+}
+#sign:hover{
+    background-color: brown;
+}
+.insidecontainer{
+    margin: auto;
+} 
